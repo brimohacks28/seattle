@@ -26,4 +26,4 @@ This application is designed to facilitate the management of rooms in a rental p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/house-rental-app.git
+   
